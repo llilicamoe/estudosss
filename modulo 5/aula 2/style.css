@@ -1,7 +1,8 @@
 div.container{
     background-color: black;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 
 div.filho{
