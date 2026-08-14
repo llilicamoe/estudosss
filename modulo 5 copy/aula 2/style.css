@@ -1,0 +1,11 @@
+div.container{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+}
+
+div.filho{
+    background-color: red;
+    border: 1px solid black;
+    padding: 10px;
+}
